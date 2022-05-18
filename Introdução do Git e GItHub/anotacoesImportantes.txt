@@ -1,0 +1,9 @@
+Anotações:
+
+Untracked: são arquivos que o Git não tem ciência;
+Tracked: arquivos que o Git tem ciência;
+ -Unmodified:Quando o arquivo não foi modificado.
+ -Modified:Arquivo que sofreu alteração.
+ -Stage:Arquivos que estão sendo preparados para o commit.
+
+https://git-scm.com/book/pt-pt/v2/No%C3%A7%C3%B5es-B%C3%A1sicas-do-Git-Recording-Changes-to-the-Repository
